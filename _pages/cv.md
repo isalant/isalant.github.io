@@ -8,4 +8,4 @@ redirect_from:
 ---
 
 {% include base_path %}
-My CV is available <a href="https://graemepeterson.github.io/files/GPeterson_CV_2025.pdf">here</a>.
+My CV is available <a href="https://graemepeterson.github.io/files/GPeterson_CV_08282025.pdf">here</a>.
