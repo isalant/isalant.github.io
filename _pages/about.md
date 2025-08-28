@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD candidate in Health Policy PhD Program (Economics Track) at Harvard University. 
+I am a PhD candidate in the Health Policy PhD Program (Economics Track) at Harvard University. 
 
 I study a variety of topics in health economics and aging, including the economics of insurance markets, environmental health, and the causes and consequences of racial health disparities. Much of my recent work has examined these topics in the context of Alzheimer's disease and related dementias.
 
