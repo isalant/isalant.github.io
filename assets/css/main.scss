@@ -40,3 +40,15 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
+
+/* Your overrides go *after* the imports */
+h2.archive__item-title,
+h2.archive__item-title:hover,
+.archive__item:hover h2.archive__item-title,
+h2.archive__item-title .pub-title,
+h2.archive__item-title:hover .pub-title {
+  text-decoration: none !important;
+  border-bottom: 0 !important;
+  box-shadow: none !important;
+  cursor: default !important;
+}
