@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Ilana Salant"
+title                    : "Ilana M. Salant"
 title_separator          : "-"
-name                     : &name "Ilana Salant"
+name                     : &name "Ilana M. Salant"
 description              : &description "personal description"
 url                      : https://isalant.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -23,7 +23,7 @@ repository               : "isalant/isalant.github.io"
 author:
   # Biographic information
   avatar           : "isalant_headshot.png"
-  name             : "Ilana Salant"
+  name             : "Ilana M. Salant"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Health Policy and Economics"
   location         : "Cambridge, MA"
