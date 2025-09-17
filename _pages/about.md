@@ -7,13 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Health Policy PhD Program (Economics Track) at Harvard University. In 2024-2025, I was a Pre-Doctoral Fellow in Aging and Health Research at the National Bureau of Economic Research.
+I am a Ph.D. candidate in the Health Policy PhD Program (Economics Track) at Harvard University. In 2022-2024, I was a Pre-Doctoral Fellow in Aging and Health Research at the National Bureau of Economic Research.
 
-I study a variety of topics in health economics and aging, including the economics of insurance markets, environmental health, and the causes and consequences of racial health disparities. Much of my recent work has examined these topics in the context of Alzheimer's disease and related dementias.
+I study the economics of long term care and community-based care, with a focus on home health care.
 
 **I am on the 2025-2026 job market.**
 
-Email: gpeterson@g.harvard.edu
+Email: isalant@g.harvard.edu
 
 <!-- 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!

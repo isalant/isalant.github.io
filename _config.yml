@@ -9,32 +9,32 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Graeme Peterson"
+title                    : "Ilana Salant"
 title_separator          : "-"
-name                     : &name "Graeme Peterson"
+name                     : &name "Ilana Salant"
 description              : &description "personal description"
-url                      : https://graemepeterson.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
+url                      : https://isalant.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io" or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "graemepeterson/graemepeterson.github.io"
+repository               : "isalant/isalant.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gpeterson_headshot.jpeg"
-  name             : "Graeme Peterson"
+  avatar           : "isalant_headshot.png"
+  name             : "Ilana Salant"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Health Policy and Economics"
   location         : "Cambridge, MA"
   employer         : "Harvard University"
   uri              : # URL
-  email            : "gpeterson@g.harvard.edu" 
+  email            : "isalant@g.harvard.edu" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=7l0yo20AAAAJ&hl=en"
+  googlescholar    : #"https://scholar.google.com/citations?user=7l0yo20AAAAJ&hl=en"
   impactstory      : # URL
   orcid            : # "http://orcid.org/yourorcidurl"
   semantic         : # URL
@@ -83,6 +83,8 @@ publication_category:
     title: "Job Market Paper"
   published:
     title: "Published Papers"
+  submitted:
+    title: "Submitted Papers"
   wp:
     title: "Working Papers/In-Progress"
   books:

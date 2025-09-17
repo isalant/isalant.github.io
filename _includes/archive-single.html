@@ -61,7 +61,9 @@
         {% if post.collection == 'publications' %}
           {% if post.category == 'published' %}
             <p><i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} <i>(with {{ post.coauthor }})</i> </p>
-          {% elsif post.category == 'wp' %}
+          {% elsif post.category == 'wp' and post.coauthor != "" %}
+            <p><i>(with {{ post.coauthor }})</i> </p>
+          {% elsif post.category == 'submitted' %}
             <p><i>(with {{ post.coauthor }})</i> </p>
           {% endif %}
         {% elsif post.date %}

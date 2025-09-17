@@ -1,5 +1,5 @@
 ---
-title: "Essentials of the Profession, Harvard Medical School"
+title: "Why is There No Cure for Health?, Harvard University"
 #collection: teaching
 #type: "Workshop"
 #permalink: /teaching/2015-spring-teaching-1
@@ -8,5 +8,4 @@ title: "Essentials of the Profession, Harvard Medical School"
 #location: "City, Country"
 ---
 
-Health Policy Teaching Fellow to Zirui Song and Adam Schaffer (Winter 2023, 2024)
-
+Teaching Fellow to David Cutler (Fall 2023)
