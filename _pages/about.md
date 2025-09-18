@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-I am a Ph.D. candidate in the Health Policy PhD Program (Economics Track) at Harvard University. Fr 2022-2024, I was a Pre-Doctoral Fellow in Aging and Health Research at the National Bureau of Economic Research.
+I am a Ph.D. candidate in the Health Policy PhD Program (Economics Track) at Harvard University. From 2022-2024, I was a Pre-Doctoral Fellow in Aging and Health Research at the National Bureau of Economic Research.
 
-I study the economics of long term care and community-based care, with a focus on home health care.
+I study the economics of long term care and community-based care. My current work focuses on home health care.
 
 **I am on the 2025-2026 job market.**
 
