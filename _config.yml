@@ -22,7 +22,7 @@ repository               : "isalant/isalant.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "250916_594r.jpeg"
+  avatar           : "isalant_headshot.png"
   name             : "Ilana M. Salant"
   pronouns         : # example: "she/her"  
   bio              : "PhD Student in Health Policy and Economics"
